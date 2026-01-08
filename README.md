@@ -96,5 +96,3 @@ The model classifies MRI images into the following categories:
 - Backend handled using Flask  
 - Frontend designed with HTML  
 
-
-## 📂 Project Structure
